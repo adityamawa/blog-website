@@ -10,13 +10,13 @@ This project is a blog website similar to Medium, built with React for the front
 
 ## Table of Contents
 
-- [Technologies Used](##technologies-used)
-- [Features](##features)
-- [Getting Started](##getting-started)
-  - [Prerequisites](###prerequisites)
-  - [Installation](###installation)
-  - [Setting Up Environment Variables](###setting-up-environment-variables)
-- [Running Locally](###running-locally)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Setting Up Environment Variables](#setting-up-environment-variables)
+- [Running Locally](#running-locally)
 ## Technologies Used
 
 - **Frontend**:
@@ -66,6 +66,8 @@ or
    ```
   yarn install
    ```
+
+   ### Setting Up Environment Variables
 4.Set up environment variables: <br />
 Create a .env file in the root directory with the following environment variables: 
   ```
